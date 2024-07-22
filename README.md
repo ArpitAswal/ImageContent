@@ -6,6 +6,7 @@ Features:
 
 User Authentication:
 Users can sign up and sign in using Firebase authentication.
+After signing up with an email, users must verify their email by clicking on a link sent to their email address.
 
 Image and Content Upload:
 Users can upload images from their gallery or capture new images using their camera.
@@ -54,14 +55,27 @@ The splash screen is displayed, enhancing the user interface experience.
 User signs up or signs in using Firebase authentication.
 
 -![photo_2023-04-21_18-46-58](https://user-images.githubusercontent.com/87036588/233648471-93d8e6af-6710-4353-ae28-a64dc7e50a4f.jpg)
+![Screenshot_2024-07-23-00-41-52-451_com example imagecontent](https://github.com/user-attachments/assets/cbe7d83c-2326-4ae5-b9ef-30eeda3ab2c9)
+
+After signing up with an email, the user verifies their email by clicking on a link sent to their email address.
+
 -![photo_2023-04-21_18-47-12](https://user-images.githubusercontent.com/87036588/233648557-3c2bc9ec-9211-4fc8-8dd3-130ab2eea73a.jpg)
 
 After signing in, the user is directed to the home screen, where all their uploaded content is displayed. 
 User can search for their content by entering keywords in the search field, and the app will display matching results.
 
+![Screenshot_2024-07-23-00-36-05-022_com example imagecontent](https://github.com/user-attachments/assets/be842f1e-f50c-4e13-b7a2-9992260bb044)
+
 User can upload a new image from the gallery or capture a new image using the camera, and add content to the image.
+
 -![photo_2023-04-21_18-47-05](https://user-images.githubusercontent.com/87036588/233653693-918b7f59-2cef-479a-8ab8-676e6b626e5a.jpg)
 -![photo_2023-04-21_18-47-04](https://user-images.githubusercontent.com/87036588/233653736-d0a3bb4f-1152-44f8-b97a-8002be24dcc1.jpg)
+![Screenshot_2024-07-23-00-40-31-073_com example imagecontent](https://github.com/user-attachments/assets/048963e1-8be5-4cbb-a5a2-443e47fb3898)
+
+
+On the home screen, users can update the text of their content or delete entire content posts.
+
+User can search for their content by entering keywords in the search field, and the app will display matching results.
 
 Design Philosophy:
 ImageContent is designed to provide a simple and secure platform for users to upload and manage their visual content and articles. The app focuses on a user-friendly interface and smooth experience, with plans for future updates to enhance social interaction and functionality.
